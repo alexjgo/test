@@ -10,4 +10,4 @@ Blabla
 
 #TUX
 
-![vegetta]("C:\Users\alexj\OneDrive\Imatges\C6lORmoWkAAeRzr.jpg")
+/C6lORmoWkAAeRzr.jpg
