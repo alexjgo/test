@@ -10,4 +10,4 @@ Blabla
 
 #TUX
 
-/C6lORmoWkAAeRzr.jpg
+![Vegetta](C6lORmoWkAAeRzr.jpg)
