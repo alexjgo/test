@@ -8,6 +8,6 @@ Blabla
 - No
 - No se
 
-## Apartado B
+#TUX
 
-Bla bla
+![vegetta]("C:\Users\alexj\OneDrive\Imatges\C6lORmoWkAAeRzr.jpg")
