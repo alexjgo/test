@@ -2,14 +2,13 @@
 
 ## Apartado A
 
-Blabla
+codigo:
 
-- Sí
-- No
-- No se
+  <html>
+    <head>
+    </head>
+  <html>
 
 #TUX
-
-![Vegetta](C6lORmoWkAAeRzr.jpg)
 
 <img src="C6lORmoWkAAeRzr.jpg" alt="vegetta" width="400" height="341">
